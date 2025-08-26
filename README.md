@@ -3,19 +3,19 @@ RKitHunt (Rootkit Hunter) is a lightweight Bash-based security auditing tool des
 
 **✨ Features of RootKHunter**
 
-Detects **hidden processes and reports** suspicious activity.
+- Detects **hidden processes and reports** suspicious activity.
 
-Identifies **hidden files and directories** with ownership & permissions.
+- Identifies **hidden files and directories** with ownership & permissions.
 
-Scans for **suspicious kernel modules** (possible rootkit implants).
+- Scans for **suspicious kernel modules** (possible rootkit implants).
 
-Verifies **integrity of system binaries** using SHA256 hashes.
+- Verifies **integrity of system binaries** using SHA256 hashes.
 
-Checks **common rootkit files, strings, and signatures.**
+- Checks **common rootkit files, strings, and signatures.**
 
-Monitors **network ports & anomalies.**
+- Monitors **network ports & anomalies.**
 
-Interactive menu-driven interface for **ease of use.**
+- Interactive menu-driven interface for **ease of use.**
 
 
 **📦 Installation**
@@ -31,7 +31,7 @@ Clone the repository and make the script executable:
 
 Run the tool with root privileges for full detection:
 
-sudo ./rkithunt.sh
+- sudo ./rkithunt.sh
 
 
 **🛠️ Requirements**
