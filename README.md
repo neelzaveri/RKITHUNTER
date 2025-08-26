@@ -46,3 +46,5 @@ RKitHunt is an auditing tool only.
 It does not remove or clean rootkits.
 If suspicious activity is detected, further investigation and system hardening is strongly recommended.
 
+
+#rootkit #rootkithunter #CyberTool #cybersecurity #forensictool #rootkit-hunter
