@@ -22,7 +22,7 @@ Interactive menu-driven interface for **ease of use.**
 
 Clone the repository and make the script executable:
 
-git clone https://github.com/yourusername/rkithunt.git
+git clone https://github.com/neelzaveri/rkithunt.git
 cd rkithunt
 chmod +x rkithunt.sh
 
